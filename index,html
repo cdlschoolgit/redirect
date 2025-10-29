@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://pedido.takeat.app/dagrecia">
+  <script>
+    window.location.replace("https://pedido.takeat.app/dagrecia");
+  </script>
+</head>
+<body></body>
+</html>
